@@ -14,7 +14,7 @@ In order to run the code for a day you need to do
 
 For example to run Day 1 Part 2 in nim you would execute
 
-    $ ./run.sh nim 01 01
+    $ ./run.sh nim 01 02
 
 Solutions
 ---------
