@@ -22,3 +22,4 @@ Solutions
 - Day 01 **[[ruby](01/ruby)] [[nim](01/nim)] [[erlang](01/erlang)] [[go](01/go)]**
 - Day 02 **[[ruby](02/ruby)] [[nim](02/nim)]**
 - Day 03 **[[ruby](03/ruby)] [[nim](03/nim)]**
+- Day 04 **[[ruby](04/ruby)] [[nim](04/nim)] [[go](04/go)]**
