@@ -24,3 +24,4 @@ Solutions
 - Day 03 **[[ruby](03/ruby)] [[nim](03/nim)]**
 - Day 04 **[[ruby](04/ruby)] [[nim](04/nim)] [[go](04/go)]**
 - Day 05 **[[ruby](05/ruby)] [[go](05/go)]**
+- Day 06 **[[ruby](06/ruby)] [[nim](06/nim)] [[go](06/go)]**
