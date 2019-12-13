@@ -30,3 +30,4 @@ Solutions
 - Day 09 **[[ruby](09/ruby)] [[go](09/go)]**
 - Day 10 **[[ruby](10/ruby)]**
 - Day 11 **[[go](11/go)]**
+- Day 12 **[[nim](12/nim)]**
