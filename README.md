@@ -34,3 +34,4 @@ Solutions
 - Day 13 **[[nim](13/nim)] [[go](13/go)]**
 - Day 14 **[[nim](14/nim)]**
 - Day 15 **[[go](15/go)]**
+- Day 16 **[[nim](16/nim)]**
