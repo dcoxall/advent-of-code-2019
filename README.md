@@ -38,3 +38,5 @@ Solutions
 - Day 17 **[[nim](17/nim)]**
 - Day 18 **[[nim](18/nim)]**
 - Day 19 **[[nim](19/nim)]**
+- Day 20
+- Day 21 **[[nim](21/nim)]**
